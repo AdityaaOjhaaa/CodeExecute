@@ -53,7 +53,7 @@ const statusMap = {
 };
 
 const SOCKET_URL =
-  "https://5e40d533-50dc-4cc6-8261-93eb42642588-00-1jk6vuubv5k5e.sisko.replit.dev:5000/";
+  "https://codeexecute.onrender.com/";
 const ROOM_ID = "default-room";
 
 export default function EditorPage() {
